@@ -53,7 +53,7 @@
             "autoUpgradeMinorVersion":true,
             "settings": {
                 "fileUris": [
-                    "[concat(parameters('scriptsUri'), 'start.sh')]"
+                    "https://raw.githubusercontent.com/Anshit92/decisionmoments/master/start.sh?_sm_au_=iWV2fV4nfktFtW4j"
                 ]
             },
             "protectedSettings": {
